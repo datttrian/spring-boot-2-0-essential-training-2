@@ -14,7 +14,6 @@ import com.frankmoley.lil.sbet.landon.roomwebapp.service.RoomService;
 public class RoomRestController {
     private final RoomService roomService;
 
-
     public RoomRestController(RoomService roomService) {
         this.roomService = roomService;
     }
