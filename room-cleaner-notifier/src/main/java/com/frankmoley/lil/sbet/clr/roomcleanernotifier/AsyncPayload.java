@@ -1,3 +1,4 @@
+package com.frankmoley.lil.sbet.clr.roomcleanernotifier;
 public class AsyncPayload {
     private long id;
     private String model;
