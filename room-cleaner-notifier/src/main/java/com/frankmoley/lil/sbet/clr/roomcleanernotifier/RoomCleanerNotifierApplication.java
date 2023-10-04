@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class RoomcleanernotifierApplication {
+public class RoomCleanerNotifierApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(RoomcleanernotifierApplication.class, args);
+		SpringApplication.run(RoomCleanerNotifierApplication.class, args);
 	}
 
 }
